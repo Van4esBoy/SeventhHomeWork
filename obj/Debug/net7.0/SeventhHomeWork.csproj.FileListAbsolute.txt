@@ -1,0 +1,15 @@
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\bin\Debug\net7.0\SeventhHomeWork.exe
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\bin\Debug\net7.0\SeventhHomeWork.deps.json
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\bin\Debug\net7.0\SeventhHomeWork.runtimeconfig.json
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\bin\Debug\net7.0\SeventhHomeWork.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\bin\Debug\net7.0\SeventhHomeWork.pdb
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.csproj.AssemblyReference.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.AssemblyInfoInputs.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.AssemblyInfo.cs
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\refint\SeventhHomeWork.dll
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.pdb
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\SeventhHomeWork.genruntimeconfig.cache
+C:\Users\dinad\OneDrive\Рабочий стол\C# homeWork\SeventhHomeWork\obj\Debug\net7.0\ref\SeventhHomeWork.dll
